@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrsLuwET7TNhDM3kMx2IJGpSOj+qbvOhANf0muHOROsA08a8kNjR3YmoXZ8sXhg+cltMqDSlaxfIYZWEZ5rA7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tcrain\\OneDrive - Metropolitan Bible Church\\Desktop\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcrain\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\tcrain\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tcrain\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
